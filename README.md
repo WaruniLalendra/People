@@ -1,6 +1,6 @@
 # Basic overview
 
-People is a simple application written in <img src="{https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white}" /> to retrive user data through an API search by the user's id. 
+People is a simple application written in <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/> to retrive user data through an API search by the user's id. 
 
 # User Interfaces
 
